@@ -5,4 +5,4 @@ Supports [Greasemonkey](https://www.greasespot.net/), [Violentmonkey](https://vi
 
 ## Installing:
 
-[Press here to install](https://greasyfork.org/scripts/413400-imgur-direct/code/Imgur%20Direct.user.js)
+[Press here to install](https://greasyfork.org/en/scripts/413400-imgur-direct)
